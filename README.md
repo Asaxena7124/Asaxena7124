@@ -1,5 +1,45 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>End-to-end Data Analytics projects using SQL, Python, and Power BI<br><br>Interactive dashboards (Spotify Analysis, Customer Behavior, Sports Analytics)<br><br>Improving data storytelling and business insights through visualization<br><br>👯 I’m looking to collaborate on<br><br>Real-world Data Analysis & BI projects<br><br>Open-source analytics dashboards<br><br>SQL/Python-based data exploration projects<br><br>🤝 I’m looking for help with<br><br>Advanced SQL optimization & window functions<br><br>Real-world business problem statements<br><br>Best practices for analytics portfolios & interviews<br><br>🌱 I’m currently learning<br><br>Advanced SQL (CTEs, Window Functions)<br><br>Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)<br><br>Power BI (DAX, data modeling, performance optimization)<br><br>💬 Ask me about<br><br>SQL queries & database concepts<br><br>Power BI dashboards & DAX measures<br><br>Data cleaning, EDA, and visualization<br><br>Beginner-friendly analytics project ideas<br><br>⚡ Fun fact<br><br>I turn raw data into dashboards faster than coffee turns into productivity ☕📊
+## 👋 Hi, I’m Anubhav Saxena  
+📊 Aspiring Data Analyst | SQL • Python • Power BI
+
+I build **end-to-end data analytics projects**—from raw data to **interactive dashboards and business insights**.  
+Passionate about **data storytelling**, visualization, and solving real-world problems using data.
+
+---
+
+### 🚀 What I Do
+- Analyze and query data using **SQL**
+- Perform data analysis with **Python (Pandas, NumPy)**
+- Build **interactive Power BI dashboards**
+- Convert complex data into **actionable insights**
+
+---
+
+### 🌱 Currently Learning
+- Advanced **SQL** (CTEs, Window Functions)
+- **Python** for Data Analysis & Visualization
+- **Power BI** (DAX, Data Modeling, Performance Optimization)
+
+---
+
+### 🤝 Open to Collaborate On
+- Real-world **Data Analysis & BI projects**
+- Open-source analytics dashboards
+- SQL/Python-based data exploration projects
+
+---
+
+### 💬 Ask Me About
+- SQL queries & database concepts
+- Power BI dashboards & DAX measures
+- Data cleaning, EDA, and visualization
+- Beginner-friendly analytics projects
+
+---
+
+### ⚡ Fun Fact
+I turn raw data into dashboards faster than coffee turns into productivity ☕📊
+
 
 
 ## 🌐 Socials:
