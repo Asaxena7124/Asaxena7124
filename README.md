@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hi, I’m Anubhav Saxena  
 📊 Aspiring Data Analyst | SQL • Python • Power BI
 
