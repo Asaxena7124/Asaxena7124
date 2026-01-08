@@ -15,25 +15,10 @@ Passionate about **data storytelling**, visualization, and solving real-world pr
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **SQL** (CTEs, Window Functions)
-- **Python** for Data Analysis & Visualization
-- **Power BI** (DAX, Data Modeling, Performance Optimization)
-
----
-
 ### 🤝 Open to Collaborate On
 - Real-world **Data Analysis & BI projects**
 - Open-source analytics dashboards
 - SQL/Python-based data exploration projects
-
----
-
-### 💬 Ask Me About
-- SQL queries & database concepts
-- Power BI dashboards & DAX measures
-- Data cleaning, EDA, and visualization
-- Beginner-friendly analytics projects
 
 ---
 
